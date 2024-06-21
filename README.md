@@ -1,4 +1,4 @@
-# Finetuning-Large-Language-Models
+# Finetuning Large Language Models
 Notebooks for [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models) by DeepLearning.AI
 
 Unlock the potential of finetuning Large Language Models (LLMs). Learn from industry expert, and discover when to apply finetuning, data preparation techniques, and how to effectively train and evaluate LLMs.
