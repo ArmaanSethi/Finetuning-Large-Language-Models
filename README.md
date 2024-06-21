@@ -10,3 +10,5 @@ Course Contents:
 4. Data preparation
 5. Training process
 6. Evaluation and iteration
+
+https://learn.deeplearning.ai/courses/finetuning-large-language-models
